@@ -1,6 +1,7 @@
 {
-   
-   "autoload": {
+   "name": "wsmperquin/yottaweb"
+   ,"description":"upgraded version of the original"
+   ,"autoload": {
         "psr-4": {
             "Ratchet\\": "src/Ratchet"
         }
